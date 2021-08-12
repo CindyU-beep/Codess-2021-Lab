@@ -289,3 +289,5 @@
 - [Product updates](https://powerbi.microsoft.com/roadmap/)
 - [Guided Learning](https://docs.microsoft.com/learn/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link) **|** [YouTube Playlist](https://www.youtube.com/user/mspowerbi)
 - [Licensing / Pricing](https://powerbi.microsoft.com/pricing/)
+
+See Link: https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/
